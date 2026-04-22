@@ -7,7 +7,3 @@ export const lusitana = Lusitana({subsets: ['latin'], weight: ['400', '700']});
 export const poppins = Poppins({subsets: ['latin'], weight: ['400']});
 
 export const open_sans = Open_Sans({subsets: ['latin'], weight: ['400']});
-
-
-
-
